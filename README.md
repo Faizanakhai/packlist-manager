@@ -1,3 +1,14 @@
+# Travel Packing List App
+
+A simple and intuitive React app designed to help you organize and track your packing list for your next adventure. Add items to your list, mark them as packed, and easily sort them by input order, description, or packed status. Stay on top of what you've packed and never forget an essential item again!
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository-name.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
