@@ -10,7 +10,7 @@ A simple and intuitive React app designed to help you organize and track your pa
    git clone https://github.com/your-username/your-repository-name.git
 2. Navigate to the project directory:
 
-`cd your-repository-name`
+### `cd your-repository-name`
 
 # Getting Started with Create React App
 
