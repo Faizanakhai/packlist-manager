@@ -16,9 +16,6 @@ A simple and intuitive React app designed to help you organize and track your pa
    ### `npm install`
 
 # Getting Started with Create React App
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
